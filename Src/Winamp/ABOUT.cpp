@@ -1011,6 +1011,7 @@ static INT_PTR CALLBACK about1EggProc(HWND hwndDlg, UINT uMsg, WPARAM wParam,LPA
   													_________________________________________________________________  _________\n\
  													(_________________________________________________________________\\\\\\_WINAMP_)\n\n\n\
 													supplied by deadbeef\n\n\
+													oopsie modified the code\n\n\
 													cracked by rOn\n\n\
 													32kb cool intro by lone";
 
